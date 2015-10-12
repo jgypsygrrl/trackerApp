@@ -1,0 +1,11 @@
+# trackerApp
+
+### Overview
+Workout Tracker app created using Ruby on Rails.
+
+### Technologies Used
+
+* Ruby 2.1.5
+* Ruby on Rails 4.2.3
+
+
